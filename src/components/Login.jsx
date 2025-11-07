@@ -15,7 +15,7 @@ const Login = () => {
         event.preventDefault();
         setUser({
             email: "test@greencart.com",
-            naem: "GreenCart"
+            name: "GreenCart"
     })
     setShowUserLogin(false)
     }
